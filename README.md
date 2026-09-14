@@ -1,6 +1,6 @@
 # HUST Computer Architecture Experiments
 
-Course experiments for Computer Architecture at Huazhong University of Science and Technology (HUST).
+Course experiments for Computer Architecture（计算机组成原理）at Huazhong University of Science and Technology (HUST).
 
 ## Circuits
 
